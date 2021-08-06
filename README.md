@@ -1,1 +1,1 @@
-# Cinema_Room_Managment
+# Cinema_Room_Manager
